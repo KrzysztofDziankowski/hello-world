@@ -1,3 +1,3 @@
 # hello-world
-First change
-Second change
+1. First change
+2. Second change
