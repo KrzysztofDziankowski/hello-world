@@ -1,7 +1,8 @@
 # hello-world
 
-First change
+1. First change
 
-Second change
+2. Second change
 
-Third change
+3. Third change
+
